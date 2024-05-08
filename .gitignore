@@ -1,0 +1,8 @@
+run*.sh
+trash/
+save_dir/
+__pycache__/
+*.o[0-9]*
+babylm_data/
+models_eval/bert*
+models_eval/gpt2*
