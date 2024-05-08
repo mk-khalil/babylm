@@ -38,6 +38,6 @@ Replace <gpt, bert> with 'gpt' or 'bert' depending on the model you want to trai
 To train models using curriculum learning:
 ``` bash
 python train.py --model_type <gpt, bert>
-``` bash
+```
 
 Again, replace <gpt, bert> with 'gpt' or 'bert' as required.
